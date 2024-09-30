@@ -115,7 +115,7 @@ var pElement = document.getElementsByTagName('p')
 var pElements = document.querySelectorAll('.paragragh');
 // console.log(pElements);
 
-pElements.forEach(function(item){
+pElements.forEach(function(items){
     // console.log(item);
 })
 
